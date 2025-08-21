@@ -71,13 +71,6 @@ mvn spring-boot:run
 
 - `POST /api/payment/initiate?dealerId={id}&amount={amt}&method={method}` – Initiate payment
 
-
-## 🖼️ Screenshots
-
-| Home | Dealer List | Vehicle List | Payment Simulation |
-|------|-------------|--------------|-------------------|
-| ![](screenshots/home.png) | ![](screenshots/dealers.png) | ![](screenshots/vehicles.png) | ![](screenshots/payment.png) |
-
-## 🧑‍💻 Author
+## Author
 
 **Pankaj Kumar**
